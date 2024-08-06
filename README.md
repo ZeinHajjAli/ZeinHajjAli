@@ -7,7 +7,7 @@
     <h2 align="center">My Development Activity (From Wakatime)</h2>
     <div align="center">
         <img src="https://wakatime.com/share/@75629a78-30d5-445b-a392-6f90a5b81140/8966738f-387f-4d34-aa91-8bb834f372dc.png" />
-        <img src="https://wakatime.com/share/@75629a78-30d5-445b-a392-6f90a5b81140/461a48fb-d720-4d78-b549-817542a8e823.png" />
+<!--         <img src="https://wakatime.com/share/@75629a78-30d5-445b-a392-6f90a5b81140/461a48fb-d720-4d78-b549-817542a8e823.png" /> -->
     </div>
 </div>
 
