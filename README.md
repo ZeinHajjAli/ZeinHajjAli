@@ -1,10 +1,14 @@
 <div>
     <h1 align="center">Hi there 👋. I'm <a href="https://zeinh.ca">Zein Hajj-Ali</a></h1>
 </div> 
-<p align="center"></p>  
+<p>
+I'm an AI Consultant and researcher with a Master's in Electrical and Computer Engineering. Specializing in artificial intelligence and machine learning, I thrive on transforming complex technical challenges into innovative solutions.
+
+My career so far spans from developing AI-driven applications to advancing research in non-contact patient monitoring. I've managed IT infrastructures, contributed to academic publications, and led projects that sit at the intersection of technology and practicality.
+</p> 
 
 <div>
-    <h2 align="center">My Development Activity (From Wakatime)</h2>
+    <h2>My Development Activity (From Wakatime so might be inaccurate if working on a remote machine)</h2>
     <div align="center">
         <img src="https://wakatime.com/share/@75629a78-30d5-445b-a392-6f90a5b81140/8966738f-387f-4d34-aa91-8bb834f372dc.png" />
 <!--         <img src="https://wakatime.com/share/@75629a78-30d5-445b-a392-6f90a5b81140/461a48fb-d720-4d78-b549-817542a8e823.png" /> -->
