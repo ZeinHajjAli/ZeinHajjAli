@@ -2,7 +2,7 @@
     <h1 align="center">Hi there 👋. I'm <a href="https://zeinh.ca">Zein Hajj-Ali</a></h1>
 </div> 
 <p>
-I'm an AI Consultant and researcher with a Master's in Electrical and Computer Engineering. Specializing in artificial intelligence and machine learning, I thrive on transforming complex technical challenges into innovative solutions.
+I'm a Senior AI Consultant and researcher with a Master's in Electrical and Computer Engineering. Specializing in artificial intelligence and machine learning, I thrive on transforming complex technical challenges into innovative solutions.
 
 My career so far spans from developing AI-driven applications to advancing research in non-contact patient monitoring. I've managed IT infrastructures, contributed to academic publications, and led projects that sit at the intersection of technology and practicality.
 </p> 
